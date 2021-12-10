@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Tradebull'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A04EC363F884122B7C34C8FB3C53FDC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_786EC27FB27342C8885305DB4AF33580 }}
           package: '*.jar'
